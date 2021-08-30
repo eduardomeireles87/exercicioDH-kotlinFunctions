@@ -22,12 +22,30 @@ Vamos modelar um sistema de caixa de um supermercado:
   
   
 A impressão deverá ser a seguinte:
+  
+  
 ##########DH SuperMarket##########
+  
+  
 Data: dia/mes/ano
+  
+  
 nomeDoItem R$ 00,00
+  
+  
 nomeDoItem R$ 00,00
+  
+  
 nomeDoItem R$ 00,00
+  
+  
 nomeDoItem R$ 00,00
+  
+  
 nomeDoItem R$ 00,00
+  
+  
 nomeDoItem R$ 00,00
+  
+  
 Total: R$ 00,00
