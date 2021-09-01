@@ -13,7 +13,7 @@ carrinhoDeCompras.adicionarProduto(hamburguerVegano)
 
     val caixa = Caixa()
     caixa.fechamentoDaConta(
-        cabecalhoNotaFiscal = { imprimeCabecalhoNotaFiscal },
+        cabecalhoNotaFiscal = { imprimeCabecalhoNotaFiscal () },
         dataDaCompra = { retornaDataAtualDaCompra() },
         listaDeProdutos = carrinhoDeCompras.listaDeProdutos,
         imprimeListaDeCompras = { imprimeListaDeProdutos(carrinhoDeCompras.listaDeProdutos) },
